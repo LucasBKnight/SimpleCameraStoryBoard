@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1D91B78329C4B923006230E5 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D91B78229C4B923006230E5 /* SwiftUIView.swift */; };
 		1DCB7E5329BF7AD6009A4C3C /* SimpleCameraStoryBoardApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DCB7E5229BF7AD6009A4C3C /* SimpleCameraStoryBoardApp.swift */; };
 		1DCB7E5529BF7AD6009A4C3C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DCB7E5429BF7AD6009A4C3C /* ContentView.swift */; };
 		1DCB7E5729BF7AD8009A4C3C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1DCB7E5629BF7AD8009A4C3C /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1D91B78229C4B923006230E5 /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
 		1DCB7E4F29BF7AD6009A4C3C /* SimpleCameraStoryBoard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SimpleCameraStoryBoard.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1DCB7E5229BF7AD6009A4C3C /* SimpleCameraStoryBoardApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpleCameraStoryBoardApp.swift; sourceTree = "<group>"; };
 		1DCB7E5429BF7AD6009A4C3C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				1DCB7E5229BF7AD6009A4C3C /* SimpleCameraStoryBoardApp.swift */,
 				1DCB7E5429BF7AD6009A4C3C /* ContentView.swift */,
+				1D91B78229C4B923006230E5 /* SwiftUIView.swift */,
 				1DCB7E5629BF7AD8009A4C3C /* Assets.xcassets */,
 				1DCB7E5829BF7AD8009A4C3C /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				1DCB7E5529BF7AD6009A4C3C /* ContentView.swift in Sources */,
 				1DCB7E5329BF7AD6009A4C3C /* SimpleCameraStoryBoardApp.swift in Sources */,
+				1D91B78329C4B923006230E5 /* SwiftUIView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
